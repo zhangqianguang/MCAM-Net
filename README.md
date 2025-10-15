@@ -8,7 +8,7 @@ The mytrain.py gives an example of how to use the MCAM-Net models.
 if you find this repository helpful, please cite our publication:
 
 ```
-“Qianguang Zhang, Xiangjun Dong, Jianbin Xiong, Qi Wang, Jianxiang Yang, Jing WangWeikun Dai. Enhanced Industrial Product Surface Defect Detection using a Multi-scale Convolutional Attention Network.
+“Qianguang Zhang, Xiangjun Dong, Jianbin Xiong, Hongbin Zhu, Qi Wang, Jing WangWeikun Dai. Enhanced Industrial Product Surface Defect Detection using a Multi-scale Convolutional Attention Network.
 The Visual Computer, 2025."
 ```
 
