@@ -1,7 +1,7 @@
 This repository contains the code for MCAM-Net.
 
 ## Usage
-The mytrain.py gives an example of how to use the YOLOv8 as well as the MCAM-Net models.
+The mytrain.py gives an example of how to use the MCAM-Net models.
 
 
 ## Citing & Authors
