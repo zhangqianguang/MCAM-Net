@@ -1,4 +1,7 @@
+## Multi-scale Convolutional Attention for Enhanced Industrial Surface Defect Detection. 
 This repository contains the code for MCAM-Net.
+
+Introduction
 
 ## Usage
 The mytrain.py gives an example of how to use the MCAM-Net models.
