@@ -1,5 +1,5 @@
 ## Multi-scale Convolutional Attention for Enhanced Industrial Surface Defect Detection. 
-This repository contains the code for MCAM-Net.
+This repository contains the code for MCAM-Net. https://doi.org/10.5281/zenodo.17391042
 
 ## Introduction
 This is the official implementation of our paper titled "ETDNet: Efficient Transformer-Based Detection Network for Surface Defect Detection".
@@ -26,6 +26,7 @@ if you find this repository helpful, please cite our publication:
 “Qianguang Zhang, Xiangjun Dong, Jianbin Xiong, Hongbin Zhu, Qi Wang, Jing Wang, Weikun Dai.
 Multi-scale Convolutional Attention for Enhanced Industrial Surface Defect Detection.
 The Visual Computer, 2025."
+https://doi.org/10.5281/zenodo.17391042
 ```
 
 Contact person: Qianguang Zhang,  email: zqgzhangqianguang@163.com
