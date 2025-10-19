@@ -14,7 +14,7 @@ GC10-DET: https://pan.baidu.com/s/1Zrd-gzfVhG6oKdVSa9zoPQ
 
 ## Usage
 The mytrain.py gives an example of how to use the MCAM-Net models.
-More configuration please see tools/mytrain.py and exps/neu_det/etdnet_neu_flod1.py, where you can set device num, dataset path, batch size, weight path, and so on.
+More configuration please see ultralytics-main/mytrain.py and ultralytics-main/mytest.py, where you can set device num, dataset path, batch size, weight path, and so on.
 
 
 ## Citing & Authors
